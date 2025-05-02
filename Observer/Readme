@@ -1,0 +1,12 @@
+OBSERVER PATTERN
+- defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+1. The Observer Pattern defines a one-to-many relationship between objects.
+2. Subjects update Observers using a common interface.
+3. Observers of any concrete type can participate in the pattern as long as they implement the Observer interface.
+4. Observers are loosely coupled in that the Subject knows nothing about them, other than that they implement the Observer interface.
+5. You can push or pull data from the Subject when using the pattern (pull is considered more "correct").
+6. Swing makes heavy use of the Observer Pattern, as do many GUI frameworks.
+7. You'll also find the pattern in many other places, including RxJava, JavaBeans, and RMI, as well as in other language frameworks, like Cocoa, Swift, and JavaScript events.
+8. The Observer Pattern is related to the Publish/Subscribe Pattern, which is for more complex situations with multiple Subjects and/or multiple message types.
+9. The Observer Pattern is a commonly used pattern, and we'll see it again when we learn about Model-View-Controller.
