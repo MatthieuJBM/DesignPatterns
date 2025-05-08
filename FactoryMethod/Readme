@@ -1,0 +1,4 @@
+FACTORY METHOD
+is a creational design pattern that provides an interface for creating object in a superclass,
+ but allows subclasses to alter the type of objects that will be created.
+
