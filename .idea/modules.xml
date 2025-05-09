@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" filepath="$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
     </modules>
