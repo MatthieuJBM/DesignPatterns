@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" filepath="$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" filepath="$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
     </modules>
