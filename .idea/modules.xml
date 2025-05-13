@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" filepath="$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" filepath="$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" />
     </modules>
   </component>
 </project>
