@@ -4,7 +4,12 @@ public class Kalkulator_prosty
 {
     public static void main(String args[]) {
 
-       	Dzialania oo = new Dzialania();
+        System.out.println("Factory Method");
+        System.out.println("Lab.2 Zad.1 Napisz kod klasy języka Java, która zwraca obiekt typu Double lub Integer, w zależności od\n" +
+                "rodzaju liczby przekazanej do konstruktora w postaci tekstowej. W rozwiązaniu należy zastosować\n" +
+                "odpowiedni wzorzec projektowy.");
+
+        Dzialania oo = new Dzialania();
         Wynik wynik = new Wynik();
         String liczba1, liczba2;
         char operator;
