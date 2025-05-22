@@ -1,3 +1,7 @@
+package exporters;
+
+import students.Student;
+
 import java.util.List;
 
 public class XmlExporter implements Exporter{
