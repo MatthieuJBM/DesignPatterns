@@ -2,17 +2,30 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Banks/AbstractFactory_Banks.iml" filepath="$PROJECT_DIR$/AbstractFactory_Banks/AbstractFactory_Banks.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" filepath="$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" filepath="$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" filepath="$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Car/Builder_Car.iml" filepath="$PROJECT_DIR$/Builder_Car/Builder_Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" filepath="$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" filepath="$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" filepath="$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" filepath="$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" filepath="$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Lab/FactoryMethod_Lab.iml" filepath="$PROJECT_DIR$/FactoryMethod_Lab/FactoryMethod_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" filepath="$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2_Zad1/Lab2_Zad1.iml" filepath="$PROJECT_DIR$/Lab2_Zad1/Lab2_Zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2_Zad2/Lab2_Zad2.iml" filepath="$PROJECT_DIR$/Lab2_Zad2/Lab2_Zad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2_Zad4/Lab2_Zad4.iml" filepath="$PROJECT_DIR$/Lab2_Zad4/Lab2_Zad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3_Zad1/Lab3_Zad1.iml" filepath="$PROJECT_DIR$/Lab3_Zad1/Lab3_Zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3_Zad2/Lab3_Zad2.iml" filepath="$PROJECT_DIR$/Lab3_Zad2/Lab3_Zad2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_Lab/Prototype_Lab.iml" filepath="$PROJECT_DIR$/Prototype_Lab/Prototype_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" filepath="$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton_Lab/Singleton_Lab.iml" filepath="$PROJECT_DIR$/Singleton_Lab/Singleton_Lab.iml" />
     </modules>
   </component>
 </project>
