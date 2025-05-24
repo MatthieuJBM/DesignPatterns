@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" filepath="$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" filepath="$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator_DataSource/Decorator_DataSource.iml" filepath="$PROJECT_DIR$/Decorator_DataSource/Decorator_DataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" filepath="$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" filepath="$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" />
