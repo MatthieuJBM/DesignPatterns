@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_DataSource/Decorator_DataSource.iml" filepath="$PROJECT_DIR$/Decorator_DataSource/Decorator_DataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" filepath="$PROJECT_DIR$/Decorator_Lab/Decorator_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator_Students/Decorator_Students.iml" filepath="$PROJECT_DIR$/Decorator_Students/Decorator_Students.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" filepath="$PROJECT_DIR$/Facade_Lab/Facade_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" filepath="$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" />
