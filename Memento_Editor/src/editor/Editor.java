@@ -10,6 +10,9 @@ import javax.swing.*;
 import java.io.*;
 import java.util.Base64;
 
+/* info: The originator holds some important data that may change over time.
+    It also defines a method for saving its state inside a memento  and another method for restoring the state from it.
+*/
 public class Editor extends JComponent {
     private Canvas canvas;
     private CompoundShape allShapes = new CompoundShape();
@@ -45,7 +48,13 @@ public class Editor extends JComponent {
             canvas.repaint();
     }
 
+    // info: Saves the current state inside a memento.
     public String backup() {
+
+        /*
+        * info: Memento is an immutable object; that's why the originator
+        *  passes its state to the memento's constructor parameters.
+        */
         try {
             ByteArrayOutputStream baos = new ByteArrayOutputStream();
             ObjectOutputStream oos = new ObjectOutputStream(baos);
