@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" filepath="$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" filepath="$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" filepath="$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" filepath="$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Car/Builder_Car.iml" filepath="$PROJECT_DIR$/Builder_Car/Builder_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" filepath="$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" filepath="$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton_Enum/Singleton_Enum.iml" filepath="$PROJECT_DIR$/Singleton_Enum/Singleton_Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Lab/Singleton_Lab.iml" filepath="$PROJECT_DIR$/Singleton_Lab/Singleton_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Threadsafe/Singleton_Threadsafe.iml" filepath="$PROJECT_DIR$/Singleton_Threadsafe/Singleton_Threadsafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy_Payment/Strategy_Payment.iml" filepath="$PROJECT_DIR$/Strategy_Payment/Strategy_Payment.iml" />
     </modules>
   </component>
 </project>
