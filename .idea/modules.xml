@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" filepath="$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" filepath="$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" filepath="$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge_Lab/Bridge_Lab.iml" filepath="$PROJECT_DIR$/Bridge_Lab/Bridge_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" filepath="$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Car/Builder_Car.iml" filepath="$PROJECT_DIR$/Builder_Car/Builder_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" filepath="$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" />
