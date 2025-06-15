@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Lab/Prototype_Lab.iml" filepath="$PROJECT_DIR$/Prototype_Lab/Prototype_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" filepath="$PROJECT_DIR$/Prototype_Shape/Prototype_Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy_Lab/Proxy_Lab.iml" filepath="$PROJECT_DIR$/Proxy_Lab/Proxy_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Chocolate/Singleton_Chocolate.iml" filepath="$PROJECT_DIR$/Singleton_Chocolate/Singleton_Chocolate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Classic/Singleton_Classic.iml" filepath="$PROJECT_DIR$/Singleton_Classic/Singleton_Classic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Enum/Singleton_Enum.iml" filepath="$PROJECT_DIR$/Singleton_Enum/Singleton_Enum.iml" />
