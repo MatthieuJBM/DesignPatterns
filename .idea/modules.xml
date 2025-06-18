@@ -4,12 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Banks/AbstractFactory_Banks.iml" filepath="$PROJECT_DIR$/AbstractFactory_Banks/AbstractFactory_Banks.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" filepath="$PROJECT_DIR$/AbstractFactory_Buttons/AbstractFactory_Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter_Lab_Dokument/Adapter_Lab_Dokument.iml" filepath="$PROJECT_DIR$/Adapter_Lab_Dokument/Adapter_Lab_Dokument.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" filepath="$PROJECT_DIR$/Adapter_SquarePeg/Adapter_SquarePeg.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" filepath="$PROJECT_DIR$/Bridge_Devices/Bridge_Devices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Lab/Bridge_Lab.iml" filepath="$PROJECT_DIR$/Bridge_Lab/Bridge_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" filepath="$PROJECT_DIR$/Bridge_Vehicle/Bridge_Vehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Car/Builder_Car.iml" filepath="$PROJECT_DIR$/Builder_Car/Builder_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" filepath="$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility_FilteringAccess/ChainOfResponsibility_FilteringAccess.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility_FilteringAccess/ChainOfResponsibility_FilteringAccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" filepath="$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" filepath="$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
@@ -22,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" filepath="$PROJECT_DIR$/FactoryMethod_Buttons/FactoryMethod_Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Lab/FactoryMethod_Lab.iml" filepath="$PROJECT_DIR$/FactoryMethod_Lab/FactoryMethod_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" filepath="$PROJECT_DIR$/Factory_Pizza/Factory_Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight_Lab_Ksztalt/Flyweight_Lab_Ksztalt.iml" filepath="$PROJECT_DIR$/Flyweight_Lab_Ksztalt/Flyweight_Lab_Ksztalt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight_Tree/Flyweight_Tree.iml" filepath="$PROJECT_DIR$/Flyweight_Tree/Flyweight_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kolokwium1/Kolokwium1.iml" filepath="$PROJECT_DIR$/Kolokwium1/Kolokwium1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2_Zad1/Lab2_Zad1.iml" filepath="$PROJECT_DIR$/Lab2_Zad1/Lab2_Zad1.iml" />
@@ -33,6 +36,9 @@
       <module fileurl="file://$PROJECT_DIR$/Lab3_Zad2/Lab3_Zad2.iml" filepath="$PROJECT_DIR$/Lab3_Zad2/Lab3_Zad2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3_Zad4/Lab3_Zad4.iml" filepath="$PROJECT_DIR$/Lab3_Zad4/Lab3_Zad4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3_Zad5/Lab3_Zad5.iml" filepath="$PROJECT_DIR$/Lab3_Zad5/Lab3_Zad5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5_Zad1_Kwiaciarnia/Lab5_Zad1_Kwiaciarnia.iml" filepath="$PROJECT_DIR$/Lab5_Zad1_Kwiaciarnia/Lab5_Zad1_Kwiaciarnia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5_Zad2_Sprzet_Sportowy/Lab5_Zad2_Sprzet_Sportowy.iml" filepath="$PROJECT_DIR$/Lab5_Zad2_Sprzet_Sportowy/Lab5_Zad2_Sprzet_Sportowy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6_Zad1_Ksiegarnia/Lab6_Zad1_Ksiegarnia.iml" filepath="$PROJECT_DIR$/Lab6_Zad1_Ksiegarnia/Lab6_Zad1_Ksiegarnia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Memento_Document/Memento_Document.iml" filepath="$PROJECT_DIR$/Memento_Document/Memento_Document.iml" />
       <module fileurl="file://$PROJECT_DIR$/Memento_Editor/Memento_Editor.iml" filepath="$PROJECT_DIR$/Memento_Editor/Memento_Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
