@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_Car/Builder_Car.iml" filepath="$PROJECT_DIR$/Builder_Car/Builder_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" filepath="$PROJECT_DIR$/Builder_Lab/Builder_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility_FilteringAccess/ChainOfResponsibility_FilteringAccess.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility_FilteringAccess/ChainOfResponsibility_FilteringAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command_Text_Editor/Command_Text_Editor.iml" filepath="$PROJECT_DIR$/Command_Text_Editor/Command_Text_Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" filepath="$PROJECT_DIR$/Composite_Lab/Composite_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" filepath="$PROJECT_DIR$/Composite_Shapes/Composite_Shapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" filepath="$PROJECT_DIR$/Decorator_Beverage/Decorator_Beverage.iml" />
